@@ -1,5 +1,7 @@
 <!--타이틀 부분-->
-![GitHubLogo](https://github.com/user-attachments/assets/70a8ed51-ad54-49f3-9df3-c21109cdeb4f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/70a8ed51-ad54-49f3-9df3-c21109cdeb4f" width="75%">
+</div>
 
 <!--Stat 부분-->
 <div align="center">
