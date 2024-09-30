@@ -3,10 +3,23 @@
   <img src="https://github.com/user-attachments/assets/70a8ed51-ad54-49f3-9df3-c21109cdeb4f" width="75%">
 </div>
 
-<!--Stat 부분-->
+<!--자기소개 부분-->
+<h3 align="center">💫 About Me</h3>
+<div align="center">
+  Hi there! I’m <strong>Jisoo Han</strong>, a backend developer who primarily works with <strong>Java</strong> and <strong>Spring</strong> frameworks.<br>
+  I love building scalable and efficient systems, and I’m always looking for ways to improve and learn new things.<br><br>
+  
+  Lately, I’ve been focusing on <strong>AWS</strong> to dive deeper into cloud technologies.<br><br>
+  
+  I’m a big fan of teamwork and learning from others, so if you're into tech or have cool projects in mind, feel free to reach out!
+</div>
+
+
+
+<!--Stat 부분-->﻿
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanjisoo93&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjisoo93">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjisoo93&langs_count=10&layout=compact&theme=dark">
 </div>
 
 <!--내용 부분-->
