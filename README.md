@@ -14,8 +14,6 @@
   I’m a big fan of teamwork and learning from others, so if you're into tech or have cool projects in mind, feel free to reach out!
 </div>
 
-
-
 <!--Stat 부분-->﻿
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanjisoo93&show_icons=true&theme=radical">
@@ -39,6 +37,13 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://img.shields.io/badge/MSSQL-0078D4.svg" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thymeleaf-20232a.svg?logo=thymeleaf&logoColor=005F0F"/>
+  <img src="https://img.shields.io/badge/JavaScript-20232a.svg?logo=javascript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-20232a.svg?logo=html5&logoColor=#E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-20232a.svg?logo=css3&logoColor=1572B6"/>
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
