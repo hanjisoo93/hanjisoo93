@@ -16,7 +16,7 @@
 
 <!--Stat 부분-->﻿
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanjisoo93&show_icons=true&theme=radical">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=hanjisoo93&show_icons=true&theme=radical"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjisoo93&langs_count=10&layout=compact&theme=dark">
 </div>
 
@@ -54,7 +54,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon S3-20232a.svg?logo=amazons3&logoColor=#569A31" />
   <img src="https://img.shields.io/badge/Amazon EC2-20232a.svg?logo=amazonec2&logoColor=#FF9900" />
-  <img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?logo=postgresql&logoColor=#4169E1" />
+<!--   <img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?logo=postgresql&logoColor=#4169E1" /> -->
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
